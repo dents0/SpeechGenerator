@@ -12,7 +12,7 @@ Deniss Tsokarev
 Description
 -----------
 A speech generator written in Python. 
-The script generates a speech of the desired lenght and saves it to a .docx file. 
+The script generates a speech of the desired length and saves it to a .docx file. 
 
 People say approximately 5 sentences per minute, however, as the speech gets longer, the amount of sentences per minute will decrease. 
 
