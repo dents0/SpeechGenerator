@@ -41,4 +41,4 @@ How to use
 
 4) The speech will have the heading you created and will be divided into paragraphs to improve readability.
 
-![screenshot3](https://user-images.githubusercontent.com/28843507/52724784-49c66880-2fb0-11e9-8dd5-fd7dded436c4.PNG)
+![screenshot3](https://user-images.githubusercontent.com/28843507/52730288-44bae680-2fbb-11e9-8a82-8585f979914b.PNG)
