@@ -31,11 +31,11 @@ pip install python-docx
 How to use
 ----------
 1) Run the file **speech_generator.py** using command-line interpreter.
-2) Enter the desired **length** of speech, the **heading** and **name** the file that will store the result.
+2) Enter desired **length** of speech, a **heading** and **name** the file that will store the result.
 
 ![screenshot1](https://user-images.githubusercontent.com/28843507/52724663-0e2b9e80-2fb0-11e9-9b1d-7d4cc7fe1543.PNG)
 
-3) The file with generated speech will be created in the same directory where the file speech_generator is.
+3) The file with generated speech will be created in the same directory where **speech_generator.py** is.
 
 ![screenshot2](https://user-images.githubusercontent.com/28843507/52724778-47640e80-2fb0-11e9-84d4-e1dca5ffa101.PNG)
 
