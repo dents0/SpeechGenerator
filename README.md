@@ -23,7 +23,7 @@ Requirements
 * Python 3.6+
 * python-docx module
 
-Here is how to install **python-docx** with **pip** using a command-line interpreter on Windows machines:
+Here is how to install **python-docx** with **pip** using a command-line interpreter:
 ```
 pip install python-docx
 ```
