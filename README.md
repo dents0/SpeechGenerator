@@ -1,7 +1,5 @@
 Speech Generator
 ================
-Licensing information: READ LICENCE
-----
 Project source can be downloaded from https://github.com/dents0/SpeechGenerator.git
 ----
 
