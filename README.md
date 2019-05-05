@@ -19,28 +19,19 @@ The less length is chosen the less repetitive the speech will look.
 Requirements
 ------------
 * Python 3.6+
-* python-docx module
-
-Here is how to install **python-docx** with **pip** using a command-line interpreter on a **Windows** machine:
-```
-pip install python-docx
-```
-**Linux** and **macOS** users will need to replace "pip" with "pip3" since Python version 3.6 or higher is needed for this code to work:
-```
-pip3 install python-docx
-```
+* [python-docx module](https://python-docx.readthedocs.io/en/latest/)
 
 How to use
 ----------
-1) Run the file **speech_generator.py** using command-line interpreter.
+1) Run the file **speech_generator.py**.
 2) Enter desired **length** of speech, a **heading** and **name** the file that will store the result.
 
-![screenshot1](https://user-images.githubusercontent.com/28843507/52724663-0e2b9e80-2fb0-11e9-9b1d-7d4cc7fe1543.PNG)
+![scs1](https://user-images.githubusercontent.com/28843507/57200116-afab0680-6f87-11e9-9995-c7f1aeaa5816.PNG)
 
 3) The file with generated speech will be created in the same directory where **speech_generator.py** is.
 
 ![screenshot2](https://user-images.githubusercontent.com/28843507/52724778-47640e80-2fb0-11e9-84d4-e1dca5ffa101.PNG)
 
-4) The speech will have the heading you created and will be divided into paragraphs to improve readability.
+4) The speech will have the heading you created and will be divided into paragraphs for a better readability.
 
-![screenshot3](https://user-images.githubusercontent.com/28843507/52730288-44bae680-2fbb-11e9-8a82-8585f979914b.PNG)
+![scs2](https://user-images.githubusercontent.com/28843507/57200117-afab0680-6f87-11e9-880c-84060d7c2409.PNG)
