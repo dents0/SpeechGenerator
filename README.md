@@ -1,11 +1,7 @@
 Speech Generator
 ================
-Project source can be downloaded from https://github.com/dents0/SpeechGenerator.git
-----
 
-Author
-------
-Deniss Tsokarev
+**Author:** Deniss Tsokarev
 
 Description
 -----------
